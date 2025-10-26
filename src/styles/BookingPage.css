@@ -1,0 +1,17 @@
+.booking-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.booking-page__content h1 {
+  font-size: 2.5rem;
+  color: #333333;
+}
+
+.booking-page__content p {
+  font-size: 1.1rem;
+  margin-bottom: 40px;
+  color: #495E57;
+}

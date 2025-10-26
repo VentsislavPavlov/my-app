@@ -1,0 +1,34 @@
+.specials {
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.specials__cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 30px;
+}
+
+.card {
+  background-color: #F7F7F7;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card__content {
+  padding: 20px;
+}
+
+.card__content h3 {
+  margin: 0 0 10px 0;
+}
+
+.card__content .price {
+  color: #EE9972;
+  font-weight: bold;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+.customers {
+  padding: 60px 40px;
+  background-color: #F7F7F7;
+  text-align: center;
+}
+
+.customers__list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.customer {
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 250px;
+}

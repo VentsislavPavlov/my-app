@@ -1,0 +1,37 @@
+.cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 40px;
+  background-color: #495E57;
+  color: #FFFFFF;
+}
+
+.cta__text h1 {
+  font-size: 3rem;
+  color: #F4CE14;
+}
+
+.cta__text h2 {
+  font-size: 2rem;
+  margin: 10px 0;
+}
+
+.cta__text p {
+  font-size: 1.1rem;
+}
+
+.cta__btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #F4CE14;
+  color: #333333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cta__image img {
+  max-width: 100%;
+  border-radius: 12px;
+}
